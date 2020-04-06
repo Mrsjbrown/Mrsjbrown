@@ -1,0 +1,26 @@
+<html>
+<head>
+    <style type="text/css">
+        ul li {
+            float: left;
+            margin-left: 2em;
+            background-color: #ADD8E6;
+        }
+        Nav li{
+            display: inline;
+        }
+        nav li:hover{
+            background-color: darkblue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sample webpage<h1>
+    <ul>
+        <nav>
+        <li><a href="http//www.britannica.com/place/greatlakes">Place</a></li>
+        <li><a href ="http//www.encyclopedia.com">Encyclopedia</a></li>
+        <li><a href="http//www.worldatlas.com/articles/the-great-lakes-by-depth.html">Article</a><li>
+        </nav>
+    </ul>
+© 2020 GitHub, Inc.
